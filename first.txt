@@ -3,3 +3,5 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚«‚Ü‚·B
 ?git add
 ?git commit
 git status
+git diff
+
